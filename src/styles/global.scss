@@ -1,8 +1,14 @@
 *{
     margin: 0;
-    padding: 0;
     box-sizing: border-box;
 }
 body{
-    font: Arial, sans-serif;
+    font: 16px  "Helvetica Neue", Arial,sans-serif;
+    display:flex;
+    justify-content: center;
+    color: white;
+    background-color: rgb(68, 63, 63);
+}
+a{
+    color: #eee;
 }
